@@ -1,0 +1,498 @@
+﻿government:(n):Chinh phu
+way:(n):Con duong
+art:(n):Nghe thuat
+world:(n):The gioi
+computer:(n):May tinh
+people:(n):Con nguoi
+two:(n):So hai
+family:(n):Gia dinh
+history:(n):Lich su
+health:(n):Suc khoe
+system:(n):He thong
+information:(n):Thong tin
+meat:(n):Thit
+year:(n):Nam
+thanks:(n):Cam on
+music:(n):Am nhac
+person:(n):Con nguoi
+reading:(n):Cach doc
+method:(n):Phuong phap
+data:(n):Du lieu
+food:(n):Thuc an
+understanding:(n):Hieu biet
+theory:(n):Ly thuyet
+law:(n):Phap luat
+bird:(n):Con chim
+literature:(n):Mon ngu van
+problem:(n):Van de
+software:(n):Phan mem
+control:(n):Dieu khien
+knowledge:(n):Kien thuc
+power:(n):Suc manh
+ability:(n):Kha nang
+economics:(n):Kinh te hoc
+love:(n):Tinh yeu
+internet:(n):Internet
+television:(n):Tivi
+science:(n):Khoa hoc
+library:(n):Thu vien
+nature:(n):Tu nhien
+fact:(n):Viec
+product:(n):San pham
+idea:(n):Y kien
+temperature:(n): Nhiet do
+investment:(n):Dau tu
+area:(n):Khu vuc
+society:(n):Xa hoi
+activity:(n):Hoat dong
+story:(n):Cau chuyen
+industry:(n):Nganh cong nghiep
+media:(n):Phuong tien truyen thong
+thing:(n):Do vat
+oven:(n):Lo nuong
+community:(n):Cong dong
+definition:(n):Dinh nghia
+safety:(n):Su an toan
+quality:(n):Chat luong
+development:(n):Phat trien
+language:(n):Ngon ngu
+management:(n):Quan ly
+player:(n):Nguoi choi
+variety:(n):Da dang
+video:(n):Video
+week:(n):Tuan
+security:(n):An ninh
+country:(n):Quoc gia
+exam:(n):Cuoc thi
+movie:(n):Phim
+organization:(n):Co quan
+equipment:(n):Thiet bi
+physics:(n):Vat ly
+analysis:(n):Nghien cuu
+policy:(n):Chinh sach
+series:(n):Loat
+thought:(n):Tu tuong
+basis:(n):Can cu
+boyfriend:(n):Ban trai
+direction:(n):Phuong huong
+strategy:(n):Chien luoc
+technology:(n):Cong nghe
+army:(n):Quan doi
+camera:(n):May chup anh
+freedom:(n):Su tu do
+paper:(n):Giay
+environment:(n):Moi truong
+child:(n):Tre em
+instance:(n):Truong hop
+month:(n):Thang
+truth:(n):Su that
+marketing:(n):Thi truong
+university:(n):Truong dai hoc
+writing:(n):Viet
+article:(n):Dieu khoan
+department:(n):Bo
+difference:(n):Khac nhau
+goal:(n):Ban thang
+audience:(n):Khan gia
+fishing:(n):Cau ca
+growth:(n):Su tang truong
+Avocado:(n):Bo
+Apple:(n):Tao
+Orange:(n):Cam
+Banana:(n):Chuoi
+Grape:(n):Nho
+Grapefruit:(n):Buoi
+Starfruit:(n):Khe
+Mango:(n):Xoai
+Pineapple:(n):Thom
+Mangosteen:(n):Mang cut
+Mandarin:(n):Quyt
+Kiwi fruit:(n):Kiwi
+Kumquat:(n):Quat
+Jackfruit:(n):Mit
+Durian:(n):Sau rieng
+Lemon:(n):Chanh vang
+Lime:(n):Chanh vo xanh
+Papaya:(n):Du du
+Soursop:(n):Mang cau xiem
+Custard-apple:(n):Mang cau
+Plum:(n):Man
+Apricot:(n):Mo
+Peach:(n):Dao
+Cherry:(n):Anh dao
+Sapita:(n):Sapoche
+Rambutan:(n):Chom chom
+Coconut:(n):Dua
+Guava:(n):Oi
+Pear:(n):Le
+Fig:(n):Sung
+Dragon fruit:(n):Thanh long
+Melon:(n):Dua
+Watermelon:(n):Dua hau
+Lychee:(n):Vai
+Longan:(n):Nhan
+Pomegranate:(n):Luu
+Berry:(n):Dau
+Strawberry:(n):Dau tay
+Passion-fruit:(n):Chanh day
+Persimmon:(n):Hong
+Tamarind:(n):Me
+Cranberry:(n):Qua nam viet quat
+Jujube:(n):Tao ta
+Dates:(n):Qua cha la
+Green almonds:(n):Qua hanh xanh
+Ugli fruit:(n):Qua chanh vung Tay An
+Citron:(n):Qua thanh yen
+Currant:(n):Nho Hy Lap
+Ambarella:(n):Coc
+Indian cream cobra melon:(n):Dua gang
+Granadilla:(n):Dua Tay
+Cantaloupe:(n):Dua vang
+Honeydew:(n):Dua xanh
+Malay apple:(n):Dieu
+Star apple:(n):Vu sua
+Almond:(n):Qua hanh
+Chestnut:(n):Hat de
+Honeydew melon:(n):Dua bo ruot xanh
+Blackberries:(n):Mam xoi den
+Raisin:(n):Nho kho
+Broccoli:(n):Bong cai xanh
+Artichoke:(n):Atiso
+Celery:(n):Can tay
+Pea:(n):Dau Ha Lan
+Fennel:(n):Thi la
+Asparagus:(n):Mang tay
+Leek:(n):Toi tay
+Beans:(n):Dau
+Horseradish:(n):Cai ngua
+Corn:(n):Ngo
+Lettuce:(n):Rau diep
+Beetroot:(n):Cu den
+Mushroom:(n):Nam
+Squash:(n):Bi
+Cucumber:(n):Dua chuot
+Potato:(n):Khoai tay
+Garlic:(n):Toi
+Onion:(n):Hanh tay
+Green onion:(n):Hanh la
+Tomato:(n):Ca chua
+Marrow:(n):Bi xanh
+Radish:(n):Cu cai
+Bell pepper:(n):Ot chuong
+Hot pepper:(n):Ot cay
+Carrot:(n):Ca rot
+Pumpkin:(n):Bi do
+Watercress:(n):Cai xoong
+Yam:(n):Khoai mo
+Sweet potato:(n):Khoai lang
+Cassava root:(n):Khoai mi
+Herbs/ rice paddy leaf:(n):Rau thom
+Wintermelon:(n):Bi dao
+Ginger:(n):Gung
+Lotus root:(n):Cu sen
+Turmetic:(n):Nghe
+Kohlrabi:(n):Su hao
+Knotgrass:(n):Rau ram
+Mint leaves:(n):Rau thom
+Coriander:(n):Rau mui
+Water morning glory:(n):Rau muong
+Brave:(adj):Anh hung
+Careful:(adj):Can than
+Cheerful:(adj):Vui ve
+Easy going:(adj):De gan
+Exciting:(adj):Thu vi
+Friendly:(adj):Than thien
+Hardworking:(adj):Cham chi
+Kind:(adj):Tot bung
+Out going:(adj):Coi mo
+Polite:(adj):Lich su
+Intelligent:(adj):Thong minh
+Cautious:(adj):Than trong
+Optimistic:(adj):Lac quan
+Understantding:(adj):Hieu biet
+Clever:(adj):Keo leo
+Faithful:(adj):Chung thuy
+Gentle:(adj):Nhe nhang
+Loyal:(adj):Trung thanh
+Talkative:(adj):Hoat ngon
+Honest:(adj):Trung thuc
+Always:(adv):Luon luon
+Usually:(adv):Thuong xuyen
+Often:(adv):Thuong
+Sometimes:(adv):Thinh thoang
+Occasionally:(adv):Doi khi
+Seldom:(adv):Hiem khi
+Hardly ever:(adv):Hau nhu khong
+Never:(adv):Khong bao gio
+Already:(adv):Da roi
+Lately:(adv):Gan day
+Still:(adv):Van
+Tomorrow:(adv):Ngay mai
+Early:(adv):Som
+Now:(adv):Ngay bay gio
+Soon:(adv):Som thoi
+Yesterday:(adv):Hom qua
+Finally:(adv):Cuoi cung thi
+Recently:(adv):Gan day
+Besides:(adv):Ben canh do
+However:(adv):Mac du
+Then:(adv):Sau do
+Instead:(adv):Thay vao do
+Moreover:(adv):Hon nua
+As a result:(adv):Ket qua la
+Unlike:(adv):Khong giong nhu
+Furthermore:(adv):Hon nua
+On the other hand:(adv):Mac khac
+In fact:(adv):Tren thuc te
+Here:(adv):O day
+There:(adv):O kia
+Everywhere:(adv):Khap moi noi
+Somewhere:(adv):Mot noi nao do
+Anywhere:(adv):Bat ky dau
+Nowhere:(adv):Khong o dau ca
+Nearby:(adv):Gan day
+Inside:(adv):Ben tron
+Outside:(adv):Ben ngoai
+Away:(adv):Di khoi
+Hardly:(adv):Hau nhu khong
+Little:(adv):Mot it
+Fully:(adv):Hoan toan
+Rather:(adv):Kha la
+Very:(adv):Rat
+Strongly:(adv):Cuc ki
+Simply:(adv):Don gian
+Highly:(adv):Het suc
+Almost:(adv):Gan nhu
+Absolutely:(adv):Tuyet doi
+Enough:(adv):Du
+Perfectly:(adv):Hoan hao
+Entirely:(adv):Toan bo
+Pretty:(adv):Kha la
+Terribly:(adv):Cuc ki
+A lot:(adv):Rat nhieu
+Quite:(adv):Kha la
+Slightly:(adv):Mot chut
+Just:(adv):Chi
+Only:(adv):Duy nhat
+Largely:(adv):Phan lon la
+Generally:(adv):Noi chung
+Especially:(adv):Dac biet la
+Follow:(v):Theo duoi
+Improve:(v):Cai thien
+Continue:(v):Tiep tuc
+Enroll:(v):Nhap hoc
+Know:(v):Biet
+Tell:(v):Ke
+Spell:(v):Danh van
+Live:(v):Sinh song
+Sign:(v):Ki ten
+Déign:(v):Thiet ke
+Borrow:(v):Muon
+Owe:(v):No
+Lend:(v):Cho vay
+Raise:(v):Tang
+Decrease:(v):Giam
+Throw:(v):Nem
+Lack:(v):Thieu
+Try:(v):Thu
+Tidy:(v):Don dep
+Follow:(v):theo duoi
+Understand:(v):hieu
+Improve:(v):cai thien
+Communicate:(v):giao tiep
+Attend:(v):tham du
+Continue:(v):tiep tuc
+Announce:(v):thong bao
+Revise:(v):on tap
+Enroll:(v):nhap hoc
+Succeed:(v):thanh cong
+Memorise:(v):hoc thuoc
+Call:(v):goi
+Know:(v):biet
+Tell:(v):ke chuyen
+Spell:(v):danh van
+Live:(v):sinh song
+Describe:(v):mieu ta
+Sign:(v):ki ten
+Open:(v):mo
+Offer:(v):de xuat
+Design:(v):thiet ke
+Prepare:(v):chuan bi
+Arrange:(v):sap xep
+Manage:(v):quan ly
+Spend:(v):tieu tien
+Save:(v):tiet kiem
+Borrow:(v):muon
+Owe:(v):thieu no
+Lend:(v):cho vay
+Raise:(v):tang
+Decrease:(v):giam
+Throw:(v):nem
+Lack:(v):thieu
+Build:(v):xay
+Face:(v):huong ve
+Decorate:(v):trang tri
+Share:(v):chia se
+Inform:(v):bao tin
+Develop:(v):phat trien
+Invite:(v):moi
+Book:(v):dat cho
+Escape:(v):tron khoi
+Experience:(v):trai nghiem
+Discover:(v):kham pha
+Try:(v):thu
+Recommend:(v):de xuat
+Taste:(v):nem thu
+Hike:(v):di bo duong dai
+Pray:(v):cau nguyen
+Party:(v):tiec tung
+Welcome:(v):hoan nghenh
+Tidy:(v):don dep
+Exchange:(v):trao doi
+Expect:(v):mong doi
+Respect:(v):ton trong
+Believe:(v):tin
+Mean:(v):co y dinh
+Surprise:(v):lam bat ngo
+Control:(v):dieu khien
+Avoid:(v):tranh
+Persuade:(v):thuyet phuc
+Approach:(v):tiep can
+Forecast:(v):du bao
+Last:(v):keo dai
+Boil:(v):luoc
+Grill:(v):nuong
+Prepare:(v):chuan bi
+Stir-fry:(v):xao
+Serve:(v):phuc vu
+Pour:(v):rot
+Stir:(v):khuay
+Add:(v):them
+Roast:(v):nuong bo lo
+Follow:(v):tuan theo
+Stay:(v):giu nguyen
+Snack:(v):an vat
+Breathe:(v):tho
+Mix:(v):tron
+Spoil:(v):bi hong
+Plant:(v):trong trot
+Harvest:(v):thu hoach
+Pickle:(v):muoi chua
+Explore:(v):kham pha
+Grow:(v):lon len
+Protect:(v):bao ve
+Rely:(v):dua dam
+Surround:(v):bao quanh
+Sunbathe:(v):tam nang
+Care:(v):quan tam
+Exercise:(v):tap the duc
+Damage:(v):pha hong
+Prevent:(v):phong tranh
+Remain:(v):giu nguyen
+Injure:(v):gay thuong tich
+Bleed:(v):chay mau
+Hurt:(v):lam bi đau
+Suffer:(v):chiu dung
+Ease:(v):xoa diu
+Consider:(v):can nhac
+Admit:(v):thua nhan
+Abroad:(adv):o nuoc ngoai
+Absolutely:(adv):tuyet doi
+Accurately:(adv):mot cach chinh xac
+Almost:(adv):gan nhu
+Already:(adv):da roi
+Always:(adv):luon luon
+Anxiousl:(adv):mot cach lo au
+Anywhere:(adv):bat ki dau
+Angrily:(adv):mot cach tuc gian
+As a result:(adv):ket qua la
+Away:(adv):cach day bao xa 
+Beautifully:(adv):mot cach dep de
+Besides:(adv):ben canh do
+Bravely:(adv):mot cach dung cam
+Carefully:(adv):mot cach can than
+Carelessly:(adv):mot cach cau tha
+Cautiously:(adv):mot cach can trong
+Daily:(adv):hang ngay
+Early:(adv):som
+Easily:(adv):mot cach de dang
+Enormously:(adv):cuc ki
+entirely:(adv):toan bo
+Especially:(adv):dac biet la
+Everywhere:(adv):khap moi noi
+Expertly:(adv):mot cach dieu luyen
+Extremely:(adv):cuc ki
+Finally:(adv):cuoi cung thi
+Frequently:(adv):mot cach thuong xuyen
+Fully:(adv):hoan toan
+Furthermore:(adv):hon nua
+Generally:(adv):nhin chung thi
+Greedily:(adv):mot cach tham lam
+Happily:(adv):mot cach vui ve
+Hardly:(adv):hau nhu khong
+Hardly ever:(adv):hau nhu khong
+Here:(adv):o day
+Highly:(adv):het suc
+Hungrily:(adv):mot cach doi khat
+In fact:(adv):tren thuc te
+Instead:(adv):thay vao do
+Largely:(adv):phan lon la
+Lately:(adv):gan day
+Lazily:(adv):mot cach luoi bieng
+Leisurely:(adv):mot cach thong tha
+Little:(adv):mot it
+Liveable:(adv):co the song duoc
+Loudly:(adv):mot cach on ao
+Mainly:(adv):chu yeu la
+Moreover:(adv):hon nua
+Mostly:(adv):hau nhu
+Nearby:(adv):gan day
+Now:(adv):ngay bay gio
+Nowadays:(adv):ngay nay
+Nowhere:(adv):khong o dau ca
+Obviously:(adv):hien nhien
+Occasionally:(adv):doi khi
+Often:(adv):thuong
+On the other hand:(adv):mat khac
+Particularly:(adv):dac biet la
+Particularly:(adv): cu the la
+Percent:(adv):phan tram
+Perfectly:(adv):mot cach hoan hao
+Perfectly:(adv):hoan hao
+Personally:(adv):ve mat ca nhan
+Politely:(adv):mot cach lich su
+Politely:(adv):mot cach lich su
+Pretty:(adv):kha la
+Professionally:(adv):mot cach chuyen nghiep
+Quickly:(adv):nhanh chong
+Quietly:(adv):mot cach khe khang
+Quite:(adv):hoan toan
+Rather:(adv):kha la
+Recently:(adv):gan day
+Recklessly:(adv):mot cach bat can
+Regularly:(adv):mot cach deu dan
+Remarkably:(adv):dang ke
+Safely:(adv):mot cach an toan
+Seldom:(adv):hiem khi
+Seriously:(adv):mot cach nghiem trong
+Simply:(adv):don gian
+Slightly:(adv):mot chut
+Slowly:(adv):mot cach tu tu
+Socially:(adv):mang tinh xa hoi
+Sometimes:(adv):thinh thoang
+Somewhere:(adv):mot noi nao do
+Soon:(adv):som thoi
+Specifically:(adv):cu the la
+Still:(adv):van
+Strongly:(adv):cuc ki
+Tomorrow:(adv):ngay mai
+Totally:(adv):mot cach hoan toan
+Then:(adv):sau do
+There:(adv):o kia
+Through:(adv):xuyen suot
+Unlike:(adv):khong giong nhu
+Usually:(adv):thuong xuyen
+Weekly:(adv):hang tuan
+Well:(adv):tot
+Wholesale:(adv):si
+Yesterday:(adv):hom qua
